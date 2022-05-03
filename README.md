@@ -1,4 +1,4 @@
-<div align="center">## Improve Your Code Review Game</div>
+<h1 align="center">Improve Your Code Review Game</h1>
 
 <div align="center">Coleen Ho</div>
 <div align="center">April 2022</div>
