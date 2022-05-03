@@ -1,6 +1,6 @@
 ## Improve Your Code Review Game
 
-Coleen Ho
+Coleen Ho\
 April 2022
 
 Ah, the code review process.  A necessary, but yet commonly misunderstood part of the development process for a software engineer.  For the junior engineer, it’s an intimidating event where you go before a seasoned engineer with your precious code you’ve spent 1 month or more working on, only to feel it ripped to shreds.  This isn’t a pleasant experience for the senior engineer either.  So what can be done to help alleviate this pain point to where it becomes an effective experience?  By building in structure and setting realistic expectations for the code reviews process, engineers can come better prepared and walk away at the end of them unscathed and feeling productive.
@@ -9,6 +9,7 @@ The purpose of code reviews is to identify potential defects early.  However, th
 
 Engineers will find themselves on both sides of the review process: **The Author** or **The Reviewer**.  The Author is the engineer who made code changes and presents them to another engineer (including architects and managers).  The engineer who is presented with the code changes is The Reviewer–they review the code and identify any issues associated with the proposed changes and make requests for change to The Author.  The Author will conform or dispute the requested change from The Reviewer.  This process will iterate until The Reviewers accept all the code changes.  The code review process concludes when the Author commits the approved changes to the code base.
 
+![Image](/image/code_review_flow.img)
 
 You can use the [editor on GitHub](https://github.com/swingbug/CodeReviewGame/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
