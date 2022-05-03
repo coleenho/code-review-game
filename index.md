@@ -54,15 +54,15 @@ Do live code reviews if the changes are large, impactful, or complex; offline co
 To ensure preparedness for your review, use the following checklist:
 
 Before Review Checklist
-- [ ]Provide Description (describe what the code change is and why it is needed)
-- [ ]Ensure code compiles/builds
-- [ ]Validate code runs
-- [ ]Verify tests pass
-- [ ]Add/modify tests to handle the code change
-- [ ]Meet code coverage (or aim for 75-85% test coverage)
-- [ ]Check all the Gotchas are avoided (see the Gotchas section)
-- [ ]Identify reviewers and roles (see end of The Reviewer section)
-- [ ]Decide live or offline review
+- [ ] Provide Description (describe what the code change is and why it is needed)
+- [ ] Ensure code compiles/builds
+- [ ] Validate code runs
+- [ ] Verify tests pass
+- [ ] Add/modify tests to handle the code change
+- [ ] Meet code coverage (or aim for 75-85% test coverage)
+- [ ] Check all the Gotchas are avoided (see the Gotchas section)
+- [ ] Identify reviewers and roles (see end of The Reviewer section)
+- [ ] Decide live or offline review
 If holding a live code review, present the changes in a logical flow.  Suggestions:
 APIs, UI, or database level first
 Data flow
@@ -80,10 +80,10 @@ Phase 3: After Code Review
 Circling back to the beginning when the concept of the code review as a game was introduced, you should evaluate how your code reviews are going.  Do you see improvements in your game?  If not, keep working to identify the Gotchas before a code review happens.  Seek out counsel from other engineers before and during code to minimize the requests for change in a code review.  Try to improve your own personal code review score.  Keep in mind, this is just a measurement you define, not one that would be assessed from any of The Reviewers.  Check out the following checklist for items to conclude your review:
 
 After Review Checklist
-- [ ]Identify your own list of Gotchas
-- [ ]Strive to avoid these mistakes in your future code reviews 
-- [ ]Be sure to reciprocate and review code changes from your Reviewers
-- [ ]Learned something new
+- [ ] Identify your own list of Gotchas
+- [ ] Strive to avoid these mistakes in your future code reviews 
+- [ ] Be sure to reciprocate and review code changes from your Reviewers
+- [ ] Learned something new
 
 If you find for your code reviews there are little to no requests for change occurring, it doesn’t mean that you have reached the end of the Game.  Instead, it means that it might be appropriate to seek more difficult problems in your coding work.  Or perhaps you need to extend yourself in a different direction–try a different coding language, contribute to another teams’ work, or code something for the front end if you are a backend developer (or vise versa).  There are limitless possibilities when it comes to opportunities for writing code and having it reviewed.  Find new ways to play the Game–don’t limit yourself to just one.
 
@@ -161,19 +161,19 @@ Personal preferences when it comes to coding style (refer to actual deviations  
 Use the following checklist to guide you through the reviewing portion of the code review:
 
 During Review Checklist
-- [ ]Consider all possible cases (happy path and sad path)
-- [ ]State assumptions and where changes might break when those assumptions don’t hold
-- [ ]Focus on new code and confirm it fulfills requirements
-- [ ]Identify exceptional cases and whether they are handled (and tested)
-- [ ]Utilize language specific features
-- [ ]Give positive and constructive feedback
-- [ ]Check the Gotchas list of common mistakes
+- [ ] Consider all possible cases (happy path and sad path)
+- [ ] State assumptions and where changes might break when those assumptions don’t hold
+- [ ] Focus on new code and confirm it fulfills requirements
+- [ ] Identify exceptional cases and whether they are handled (and tested)
+- [ ] Utilize language specific features
+- [ ] Give positive and constructive feedback
+- [ ] Check the Gotchas list of common mistakes
 Phase 3: After Code Review
 To conclude the code review, ensure The Author and other Reviewers know you are finished.  Proceed with this checklist to wrap up your portion of the review process:
 
 #### After Review Checklist
-- [ ]Follow up with Author
-- [ ]Confirm feedback is understood
+- [ ] Follow up with Author
+- [ ] Confirm feedback is understood
 
 ## Gotchas
 Regardless of the coding language, there is a list of Gotchas (common things that are identified as requests for change) that occur from code reviews.  These Gotchas can be classified according to how easy and quickly it is to identify them, which can directly relate to the issues they cause in a code base (think little to severe).
