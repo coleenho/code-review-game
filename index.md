@@ -114,15 +114,15 @@ For large code reviews, consider dividing and conquering with the other Reviewer
 When you are ready to proceed with the code review, step through this checklist to make sure you are prepared before moving ahead with the review:
 
 #### Before Review Checklist
-- [ ]Review Description (understand what and why this change is needed)
-- [ ]Understand the requirements
-- [ ]Ensure code compiles/builds
-- [ ]Check code runs
-- [ ]Make sure tests pass
-- [ ]Verify tests are added/modified and handle the code change
-- [ ]Confirm team’s code coverage standard reached
-- [ ]Identify your scope for the review
-- [ ]Prepare 10-60 minutes for the review (based on the size of the code changes)
+- [ ] Review Description (understand what and why this change is needed)
+- [ ] Understand the requirements
+- [ ] Ensure code compiles/builds
+- [ ] Check code runs
+- [ ] Make sure tests pass
+- [ ] Verify tests are added/modified and handle the code change
+- [ ] Confirm team’s code coverage standard reached
+- [ ] Identify your scope for the review
+- [ ] Prepare 10-60 minutes for the review (based on the size of the code changes)
 
 Exceeding 60 minutes in reviews requires either breaking the changes into more reviews or ensuring the requirements are clear.
 
