@@ -1,9 +1,7 @@
-## <div align="center">
-  Improve Your Code Review Game
-</div>
+## <div align="center">Improve Your Code Review Game</div>
 
-Coleen Ho <br />
-April 2022  {align=center}
+-> Coleen Ho <-  
+April 2022  
 
 Ah, the code review process.  A necessary, but yet commonly misunderstood part of the development process for a software engineer.  For the junior engineer, it’s an intimidating event where you go before a seasoned engineer with your precious code you’ve spent 1 month or more working on, only to feel it ripped to shreds.  This isn’t a pleasant experience for the senior engineer either.  So what can be done to help alleviate this pain point to where it becomes an effective experience?  By building in structure and setting realistic expectations for the code reviews process, engineers can come better prepared and walk away at the end of them unscathed and feeling productive.
 
