@@ -10,4 +10,4 @@ The purpose of code reviews is to identify potential defects early.  However, th
 
 Engineers will find themselves on both sides of the review process: **The Author** or **The Reviewer**.  The Author is the engineer who made code changes and presents them to another engineer (including architects and managers).  The engineer who is presented with the code changes is The Reviewer–they review the code and identify any issues associated with the proposed changes and make requests for change to The Author.  The Author will conform or dispute the requested change from The Reviewer.  This process will iterate until The Reviewers accept all the code changes.  The code review process concludes when the Author commits the approved changes to the code base.
 
-<center>![Image of Code Review Process Flow](/image/code_review_flow.jpg)</center>
+<center>![Image of Code Review Process Flow](image/code_review_flow.jpg)</center>
