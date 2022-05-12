@@ -1,3 +1,7 @@
+layout: page
+title: "Gotchas"
+permalink: /gotchas/
+
 ## Gotchas
 
 ### Easy Gotchas
