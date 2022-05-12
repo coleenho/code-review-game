@@ -7,6 +7,9 @@
 
     {%- include header.html -%}
 
+{% for page in site.pages %}
+    <a href=index>Home</a>
+{% endfor %}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
