@@ -19,7 +19,7 @@ permalink: /gotchas_list/
 - Spelling
 - Formatting
 
-Automate as much of the Easy Gotchas as you can through code review tools, linters, IDEs, etc.
+> Automate as much of the Easy Gotchas as you can through code review tools, linters, IDEs, etc.
 
 ### Medium Gotchas
 - Complex logic statements
@@ -45,4 +45,4 @@ Automate as much of the Easy Gotchas as you can through code review tools, linte
 - Architectural issues
 - Additional technical debt
 
-If you uncover more than one Hard Gotcha, do a live code review.
+> If you uncover more than one Hard Gotcha, do a live code review.
