@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Gotchas
-permalink: /gotchas_list/
 ---
 
 ## Gotchas
