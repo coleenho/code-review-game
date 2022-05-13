@@ -1,11 +1,8 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  </head>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
   <body>
     <section class="page-header">
       <h1 class="project-name">Improve Your Code Review Game</h1>
@@ -26,7 +23,6 @@
       </footer>
 
     </section>
-
-  
+    
   </body>
 </html>
