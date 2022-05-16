@@ -83,3 +83,5 @@ Not confident being a Reviewer quite yet?  Try these:
 3. **Teach others**: Show how to identify issues in other engineer’s code to avoid making those mistakes in your own code.
 
 Utilize the list of Gotchas to identify areas in the code you are comfortable reviewing.  Then challenge yourself and pick one or two Gotchas you aren’t as familiar with and practice reviewing with those in mind so you can grow your reviewing and coding skill.
+
+Go to the [The Gotchas](gotchas_list)
