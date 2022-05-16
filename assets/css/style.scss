@@ -16,3 +16,8 @@ li.task-list-item::marker {
 li.task-list-item {
   list-style: none;
 }
+
+input.task-list-item {
+  margin-right: 5px;
+  margin-left: -20px;
+}
