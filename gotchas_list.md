@@ -12,10 +12,10 @@ Table 2: Comparison of Gotchas
 
 |     | Easy | Medium | Hard |
 | --- | ---- | ------ | ---- |
-| Identification Methods | Automation and quick reviews | Detailed and careful reviews | Holistic reviews
-| Typical Causes | Coding shortcuts | Sloppy coding | Poor planning
-| System Impact | Maintainability | Defects | Overall performance and quality
-| Resolutions | Linters, spell checking, code coverage tools, IDEs | Testing | Consider rework or new approach
+| **Identification Methods** | Automation and quick reviews | Detailed and careful reviews | Holistic reviews
+| **Typical Causes** | Coding shortcuts | Sloppy coding | Poor planning
+| **System Impact** | Maintainability | Defects | Overall performance and quality
+| **Resolutions** | Linters, spell checking, code coverage tools, IDEs | Testing | Consider rework or new approach
 
 Unfortunately, Easy Gotchas often obscure the Medium and Hard Gotchas.  Thus it is important to ensure Easy Gotchas are caught before starting code reviews so the higher level issues can be identified.  Consider the list of Gotchas below:
 
