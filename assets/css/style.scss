@@ -12,3 +12,7 @@
 li.task-list-item::marker {
   display: none;
 }
+
+li.task-list-item {
+  list-style: none;
+}
