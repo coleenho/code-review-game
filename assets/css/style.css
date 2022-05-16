@@ -1,0 +1,3 @@
+li.task-list-item::marker {
+  display: none;
+}
