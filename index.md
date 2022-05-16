@@ -11,3 +11,4 @@ Engineers will find themselves on both sides of the review process: **The Author
 In the remainder of these pages, strategies for each role will be introduced along with guidelines to enhance the code review process.  Note: The Author and The Reviewer can refer to multiple people in each of these roles.  However, these roles will be referred to in the singular form to keep things simple.
 
 [Continue to the Game](game)
+Read further on [The Gotchas](gotchas_list) | [The Author](author) | [The Reviewer](reviewer)
