@@ -9,7 +9,7 @@ After a few more reviews, I started improving and getting less requests for chan
 
 Consider each role of the code review as a player in the game.  As The Author, the code review is a game consisting of simply trying to improve your own “score” or number of requests for change.  Each code review should see overall requests for change diminish.  For The Reviewer, the game is a little different where their objective is to eliminate leaked defects, improve code quality, and minimize tech debt.  Both players need to ensure the code base is continuously maintained and enhanced but not at the expense of sacrificing quality.  For the game there is not an actual score per say, but you should try to quantify it in some meaningful way for yourself to mark progress as a player.  Examples for keeping score are provided at the end of the page.
 
-[author.md](Player: Author's Page) | [reviewer.md](Player: The Reviewer's Page) | [gotchas_list.md](Go to The Gotchas)
+[author](Player: Author's Page) [reviewer](Player: The Reviewer's Page) [gotchas_list](Go to The Gotchas)
 
 ## Keeping Score
 For The Author, use the above lists and count up the number of Easy, Medium, and Hard Gotchas that were caught in the review.  Watch these scores over time to ensure they are improving.
