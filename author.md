@@ -26,6 +26,7 @@ Verify the code compiles/builds and runs.  All tests should pass and meet code c
 It is usually better to include more reviewers than fewer depending on the scope of the review.  This allows flexibility within the team to decide who is reviewing the code and when.  It also broadens awareness of the code changes.  Consider the preferred format (live or offline) for your review.  A live code review has The Author walk The Reviewer through the code changes versus an offline review where The Reviewer reviews the code on their own time without direct interaction with The Author.  See Table 1 below for a comparison between live and offline code reviews to determine the best match for your code review.  Also, consider the option of doing both a live and offline review with The Reviewer.
 
 Table 1: Comparison of Live and Offline code reviews
+
 | | Live | Offline |
 | --- | ---- | ------- |
 | **Driver of Code Reviewer** | Author | Reviewer |
