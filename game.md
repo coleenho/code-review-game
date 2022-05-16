@@ -12,7 +12,7 @@ Consider each role of the code review as a player in the game.  As The Author, t
 Read further on [The Author](author) \| [The Reviewer](reviewer) \| [The Gotchas](gotchas_list)
 
 # Keeping Score
-For The Author, use the above lists and count up the number of Easy, Medium, and Hard Gotchas that were caught in the review.  Watch these scores over time to ensure they are improving.
+For The Author, use The Gotchas and count up the number of Easy, Medium, and Hard Gotchas that were caught in the review.  Watch these scores over time to ensure they are improving.
 
 The Reviewer should consider change requests from other Reviewers or leaked defects as part of their score.  Just as The Author keeps score for themself, The Reviewer tracks their own missed Gotchas or leaked defects over time.  This identifies key areas for enhancing the review process.
 
