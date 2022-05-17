@@ -7,7 +7,7 @@ Being part of a code review should be viewed as a privilege, not a burden.  It s
 
 > Challenge yourself to provide positive comments in a code review.
 
-Prepare yourself for the code review.  Set aside 10-60 minutes for the review and preferably as soon as you are invited to provide timely feedback.  For a live code review, be sure to look at all the changes beforehand so you can bring your questions to the meeting.  For both live and offline reviews, follow the checklist below to prepare yourself and identify common mistakes (see the Gotchas section near the end of the paper).
+Prepare yourself for the code review.  Set aside 10-60 minutes for the review and preferably as soon as you are invited to provide timely feedback.  For a live code review, be sure to look at all the changes beforehand so you can bring your questions to the meeting.  For both live and offline reviews, follow the checklist below to prepare yourself and identify common mistakes (see the Gotchas section).
 
 ## Code Review Guidelines
 Just as The Author has three phases of the code review process, so does The Reviewer: before, during, and after code review.  Unlike The Author, The Reviewer will spend most of their time in Phase 2.  Phase 1 is still important, however, because it helps The Reviewer determine the readiness and plan for the code review.
